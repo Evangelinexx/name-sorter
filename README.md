@@ -33,7 +33,11 @@ dotnet xunit
 
 The publish step will vary depending on your operating system.
 
-Once this is complete you can navigate to the program name-sorter in bin\Release\netcoreapp2.0\win10-x64 or similar, and run the .exe
+Once this is complete you can navigate to the program name-sorter in 
+```
+name-sorter\bin\Release\netcoreapp2.0\win10-x64
+```
+ or similar, paste the file you want to sort into the same directory, and run the .exe
 
 ```
 E:\Example>name-sorter ./unsorted-names-list.txt
