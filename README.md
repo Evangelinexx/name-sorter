@@ -1,4 +1,4 @@
-# Project Title
+# Name Sorter
 
 A project that sorts a list of names of the form:
 
