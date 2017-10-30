@@ -1,5 +1,6 @@
 language: csharp
 dotnet: 2.0.2
+os: windows
 
 install:
 - cd ./name-sorter
