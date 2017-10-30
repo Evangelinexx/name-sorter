@@ -1,0 +1,16 @@
+language: csharp
+dotnet: 2.0.2
+
+install:
+- cd ./name-sorter
+- dotnet restore
+- cd ../name-sorter-tests
+- dotnet restore
+- cd ..
+
+script:
+- cd name-sorter
+- dotnet build
+- dotnet publish -c Release -r win10-x64
+- cd ../name-sorter-tests
+- dotnet xunit
