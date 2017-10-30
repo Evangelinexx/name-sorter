@@ -1,0 +1,8 @@
+E:\Users\User\Documents\VSCode\name-sorter\name-sorter-tests\bin\Debug\netstandard2.0\name-sorter-tests.deps.json
+E:\Users\User\Documents\VSCode\name-sorter\name-sorter-tests\bin\Debug\netstandard2.0\name-sorter-tests.dll
+E:\Users\User\Documents\VSCode\name-sorter\name-sorter-tests\bin\Debug\netstandard2.0\name-sorter-tests.pdb
+E:\Users\User\Documents\VSCode\name-sorter\name-sorter-tests\obj\Debug\netstandard2.0\name-sorter-tests.csproj.CoreCompileInputs.cache
+E:\Users\User\Documents\VSCode\name-sorter\name-sorter-tests\obj\Debug\netstandard2.0\name-sorter-tests.AssemblyInfoInputs.cache
+E:\Users\User\Documents\VSCode\name-sorter\name-sorter-tests\obj\Debug\netstandard2.0\name-sorter-tests.AssemblyInfo.cs
+E:\Users\User\Documents\VSCode\name-sorter\name-sorter-tests\obj\Debug\netstandard2.0\name-sorter-tests.dll
+E:\Users\User\Documents\VSCode\name-sorter\name-sorter-tests\obj\Debug\netstandard2.0\name-sorter-tests.pdb

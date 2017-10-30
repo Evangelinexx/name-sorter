@@ -1,0 +1,8 @@
+E:\Users\User\Documents\VSCode\name-sorter\name-sorter-library\bin\Debug\netcoreapp2.0\name-sorter-library.deps.json
+E:\Users\User\Documents\VSCode\name-sorter\name-sorter-library\bin\Debug\netcoreapp2.0\name-sorter-library.dll
+E:\Users\User\Documents\VSCode\name-sorter\name-sorter-library\bin\Debug\netcoreapp2.0\name-sorter-library.pdb
+E:\Users\User\Documents\VSCode\name-sorter\name-sorter-library\obj\Debug\netcoreapp2.0\name-sorter-library.csproj.CoreCompileInputs.cache
+E:\Users\User\Documents\VSCode\name-sorter\name-sorter-library\obj\Debug\netcoreapp2.0\name-sorter-library.AssemblyInfoInputs.cache
+E:\Users\User\Documents\VSCode\name-sorter\name-sorter-library\obj\Debug\netcoreapp2.0\name-sorter-library.AssemblyInfo.cs
+E:\Users\User\Documents\VSCode\name-sorter\name-sorter-library\obj\Debug\netcoreapp2.0\name-sorter-library.dll
+E:\Users\User\Documents\VSCode\name-sorter\name-sorter-library\obj\Debug\netcoreapp2.0\name-sorter-library.pdb
